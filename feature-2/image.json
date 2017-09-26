@@ -1,7 +1,8 @@
 {
   "type": "Image",
   "data": {
-    "src": "/simpla/uploads/jiono.png",
+    "src":
+      "https://raw.githubusercontent.com/branigan55/bran/master/uploads/jiono.jpg",
     "alt": ""
   },
   "path": "/feature-2/image",
