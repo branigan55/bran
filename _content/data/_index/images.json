@@ -19,16 +19,6 @@
       "path": "/feature-3/image",
       "createdAt": "2017-10-11T02:01:38.909Z",
       "updatedAt": "2017-10-11T02:01:42.707Z"
-    },
-    {
-      "type": "Image",
-      "data": {
-        "src": "[upload 4uqeo.gif]",
-        "alt": ""
-      },
-      "path": "/feature-1/image",
-      "createdAt": "2017-10-07T03:06:57.651Z",
-      "updatedAt": "2017-10-11T05:46:34.745Z"
     }
   ]
 }
