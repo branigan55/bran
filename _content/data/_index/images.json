@@ -19,16 +19,6 @@
       "path": "/feature-1/image",
       "createdAt": "2017-10-07T03:06:57.651Z",
       "updatedAt": "2017-10-10T12:08:54.488Z"
-    },
-    {
-      "type": "Image",
-      "data": {
-        "src": "[upload ei4v8.png]",
-        "alt": ""
-      },
-      "path": "/feature-2/image",
-      "createdAt": "2017-09-25T01:56:15.866Z",
-      "updatedAt": "2017-10-11T04:22:24.960Z"
     }
   ]
 }
