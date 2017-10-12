@@ -3,7 +3,7 @@
     {
       "type": "Image",
       "data": {
-        "src": "[upload du3b8.jpeg]",
+        "src": "https://raw.githubusercontent.com/branigan55/bran/master/public/_content/uploads/f1ago.jpeg",
         "alt": ""
       },
       "path": "/feature-1/image",
@@ -13,7 +13,7 @@
     {
       "type": "Image",
       "data": {
-        "src": "https://raw.githubusercontent.com/branigan55/bran/master/_content/uploads/sblpo.png",
+        "src": "https://raw.githubusercontent.com/branigan55/bran/master/public/_content/uploads/sblpo.png",
         "alt": ""
       },
       "path": "/feature-2/image",
@@ -23,7 +23,7 @@
     {
       "type": "Image",
       "data": {
-        "src": "https://raw.githubusercontent.com/branigan55/bran/master/_content/uploads/2tj8g.jpeg",
+        "src": "https://raw.githubusercontent.com/branigan55/bran/master/public/_content/uploads/2tj8g.jpeg",
         "alt": ""
       },
       "path": "/feature-3/image",
